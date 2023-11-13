@@ -1,0 +1,26 @@
+{
+  "name": "Jean Butler",
+  "age": 27,
+  "address": {
+    "street": "Adeasu Road",
+    "city": "Moejucum",
+    "state": "OR",
+    "zip": "91511"
+  },
+  "contact": {
+    "phone": "(250) 204-9616",
+    "servicePhone": "800855427"
+  },
+  "birthday": "1988-09-25T18:46:09.219Z",
+  "ip": "169.3.136.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Golersol car fumab votis nusicu bamiwjo ivofag kezku oge juhlasob ijo ne olbe zaawu. Vikat dibu itnoecu wihla kodfisvin leazdaf fatfes faszorvab nemkior badbuor el vo he eso. Becej do ifzi gedi zelatna wivvefa ofevezij uresepco omwiddi uhafmak nu gerev olak pizcapo fi hi ipawu kadjez.",
+    "bio": "Pojni woctavmus loboto kuhiuta ebuso dan mos viajakeh mido cipezebic tip rofhozwu cidosoc re. Lo mean ij now rulo ef ollodfem ocatif sa ovo tovo rez be il uzuza oh va efu. Hu tefvas sit heva pu pocuwlur mijwe ji unuaz fedezvo bo devihap ban. Ava wuvak jih um rela ivhivib we jevifi modetgur rocujaret enulab su ar vi ho."
+  },
+  "apiKey": "7bf7e6e59e99525619a5ce78eb4035208639dfd93dc04ba7f8088cf535cde57e",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
