@@ -1,0 +1,26 @@
+{
+  "name": "James Hart",
+  "age": 46,
+  "address": {
+    "street": "Maam Lane",
+    "city": "Kurkemug",
+    "state": "LA",
+    "zip": "88847"
+  },
+  "contact": {
+    "phone": "(622) 721-4329",
+    "servicePhone": "800182537"
+  },
+  "birthday": "1972-07-26T13:00:08.880Z",
+  "ip": "145.141.226.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Toli gumelim meleg cu nagizu jaggo ciwpabe uh dehvan iglikece ci paveb vesuzzu jo. Mafda fepij venup su ju evkisa satiwaice etohavu ref ko waceh tava er zajfosdo otmawi nihma. Buf enpo fifocut bu duzab hevdazhiv muomvek bifigi habfil wehluvbih hehioru bihoom toden bovze kon jadvezi. Buf vilgu kikgosfur zepgegni kignaaca elrorrig giiju muzcad evukose luz dis ebaboz tetge kam. Hapi adahapu pavci guhacja jacuco ome gipozave suog vup hilgefi ca la.",
+    "bio": "Zeko okicukte hajcuf mis ipzedla azo rut refzigu vepim fecale woj nujpop. Mok sit niv efudak cuwtajmad tejat baurazu vewuaci mun de vanub tofowe lapsu acawug zacwok amaefehu. Va naj id holarmik ov awamum diheh at sizsa zizjah pu wodvale af vodso enoju acetimup bowugag ac. Nik zacoh sa rewegar cotuhup iva kaj uga ganudi bozul utofub sibcif cuh afe zez otobevma dokafi. Kik ode anbe jo ogi ko he og zegu ofeec eg tunmehfeb gafapga moutaob utsus kihmi kavjapo."
+  },
+  "apiKey": "2deb7afb2d1f4b9502314a819f18c7585e4fd4ab5ec8c0692e7e8dc21a0c9b18",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
