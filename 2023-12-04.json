@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Fox",
+  "age": 26,
+  "address": {
+    "street": "Narhuc Mill",
+    "city": "Cuncira",
+    "state": "CA",
+    "zip": "25670"
+  },
+  "contact": {
+    "phone": "(200) 573-3962",
+    "servicePhone": "800366474"
+  },
+  "birthday": "1964-01-05T17:53:24.945Z",
+  "ip": "33.22.8.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Lekugabu keupa ovel fir voluc cogpek bid buweono ku docu nav je hanoefo fi uga ti gohakac vunzodna. Ol modbalgi kinwoj ro bofpuv gav ema dierepeh awewogel locuzne aw cinnuw bazkurun jesab vajvo. Edicem saljac bemhej piliav sejam meffus fadajme ketdiah owpupon hir littew weg tu ki onuke wohom iter jo. Hibo kioppus hige nuloku jikhaige wow cakujom bufin bofoeh fi vazhatis bobunwu fer ha. Gegasmur wig cot lu gefta lupenwe ugo jib sal tuzuwolaj tokdu pujke kifezwe. Eko muja liza hocahfo puvjepsa jom cih jietiwep gikuf cob empef ruamvas vumi.",
+    "bio": "La uwovik zamoc sokwuto mewidgi let efpo dehfaro cefi ih curo noduwleg. Gekzisiz tuwo va funo il ozo ez vim heawi linwicuv lilbol digteku ha ic pa haf. Acewik ugcosic zobmojjis gijfeek wicomi fuwi ogmavrud gepal keror ojjaro dikdones ridihij zoznarir vilcis. Koibesi canaj fivruc ru fe un caturin mojhur ehpizaf kuvwiknit ehidu kecvizuh je sihape."
+  },
+  "apiKey": "72ff3b73579cba3d4cf8f30d5d37488ebc44cba9beea6866da5f0a5098827881",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
