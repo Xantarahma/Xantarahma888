@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Morrison",
+  "age": 40,
+  "address": {
+    "street": "Zumcun Heights",
+    "city": "Dobemuze",
+    "state": "PA",
+    "zip": "69865"
+  },
+  "contact": {
+    "phone": "(850) 314-4989",
+    "servicePhone": "800223568"
+  },
+  "birthday": "1995-10-10T23:34:43.677Z",
+  "ip": "246.31.25.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Buf kohur woezo kosi bome midfog tibcup roheflad ze miz fawocoz ze kaoljak anehez ben menu edubge va. Kazudwes kopderno od so ushido ma la vosjum nacu ifo morrutsek tuszem je tof ala vos. Kug omigodem ed road gehutuwi ivmipkev kop luhi onpi owwije awjed megkegkob hop kem dejed.",
+    "bio": "Ne zek cenirkel madibso sumiv deri zova asa ride obufi pop ruslu ziuk sol uvaspit zulojeku nir. Tukzo ucrinih gizogemi reb urfibav bojkidab kemah kopemhe va vebzo nodome dod tolohevo. Si sovuli faznif pakiwab egolah gudewje ajocihjem mad huvodjog vakjusvez sugajof canfoosu zanpapa oneec."
+  },
+  "apiKey": "ac7154b624100d2a74c34b4c249fe0a8f76801f3cf95420d85f6944787887203",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
