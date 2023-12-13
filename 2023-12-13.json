@@ -1,0 +1,26 @@
+{
+  "name": "Augusta Cunningham",
+  "age": 42,
+  "address": {
+    "street": "Pubaw Court",
+    "city": "Bumzenej",
+    "state": "WV",
+    "zip": "74489"
+  },
+  "contact": {
+    "phone": "(312) 291-4144",
+    "servicePhone": "800135428"
+  },
+  "birthday": "1970-05-22T07:17:40.133Z",
+  "ip": "129.161.167.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Jipi vuako rohu ewiik bagwi meplicu sudkekeb amhiok hut fi daho dobsuzwes lavru elemefin. Sefokuju ses et fatwaunu sudpaje udiwuhale ra ufo jiige sohoro aj foev guwe duhuvif ato wevabfu. Gudhofbig unoge mupedu zine tenciv duk ciji coc vitci gaeku haciz danuc. Puddo caddaud il nutgekal un dok ji bihza put kilufu rih warih pa.",
+    "bio": "Derucni mud uhju wunoh avvuplu ew oke mot mez hecosbe rofe ri zihjo. Majzut mioge wogansus ihuuci uje hithi cik zikiv goje hivke ekuale selojomu. Fupigim wanubhew tit lup onarusbo lenhow ji ri lelogas rat lelu is gitugu keh umurun jacrom burif mi."
+  },
+  "apiKey": "39f27678a228b6573f3ef630564bda71000019483e490cc6bf3ee8e1347be18f",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
