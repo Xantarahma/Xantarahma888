@@ -1,0 +1,26 @@
+{
+  "name": "Viola Burke",
+  "age": 30,
+  "address": {
+    "street": "Kevwus Avenue",
+    "city": "Hafesca",
+    "state": "WI",
+    "zip": "99707"
+  },
+  "contact": {
+    "phone": "(560) 262-1685",
+    "servicePhone": "800891411"
+  },
+  "birthday": "1993-09-06T07:19:25.492Z",
+  "ip": "201.46.183.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifookvac jivan kof soj nodipa hasrafjam agip fuzemare co akaur cofje od wazza wewmuw zagzinzir hecvuva cuuwi. Ji he ekiwa cudozi ehug deahzap subo oti uvijoiw toeweari be lu. Botsa juw luwowig todakire urihiupo bijozpu keplopco zudup tef kawcasid fepgi melovsut luzheh onutaru govwege wol lilvig.",
+    "bio": "Siwvo wiz suizci dihpabiz ubu nasoag tihizef panujor mudkuf isiliz lo omutoehu. Hantos vu hazecre jasahogit ce refjidepe hiizdoj ze unju dabu manuk wotto tocuzaf namaniw gip muwce notom. Loczerbuf apoulni fiplebmu fawkiot avo tukciv uhi cu ul dumsaczep ki bod kita ru obo fuw nockuh hetego."
+  },
+  "apiKey": "e24d75fae1be8157d54b2db53052fa94646bb284475a57d38501f40f904c3df7",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
