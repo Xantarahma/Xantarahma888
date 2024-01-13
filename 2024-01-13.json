@@ -1,0 +1,26 @@
+{
+  "name": "Alice Cook",
+  "age": 43,
+  "address": {
+    "street": "Ilri Pass",
+    "city": "Kewratuh",
+    "state": "AK",
+    "zip": "50038"
+  },
+  "contact": {
+    "phone": "(479) 415-5183",
+    "servicePhone": "800518426"
+  },
+  "birthday": "1997-12-26T00:36:46.086Z",
+  "ip": "197.57.190.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Gijivo zerac ododave izufe iwo mobuwe ha de wi tawra godzusdo tidu juukasa itra. Bukjacce kocibij ga da jipju dedpi vehipuj ojdip iw afbifa rovag gala izozejud. Fuf nozcicsa fasaf makrehan kem olubusiw budpago dezfuh rejokezof isgog sopir sonis.",
+    "bio": "Ewtihe amifah usahukas rimeufi po dehpep etedu mose waj midhepis gaec maburezu diipogu suneta tulibos bu veznog. Gacgadi cakken ubicuvce nebonwo makaka re ko sudcuuco pum wam usaho loihu omujete dawzihkol. Li subfugpem azet owuku ad huike mefour neba offuzguv vif can fanfuwtaf. Osgoh edmaus lumrup ki mamismig taj pihopa co kabbek duv sabi gerrok dus."
+  },
+  "apiKey": "bf5157fc123c55c3b42c172c43601de201652a30ed70dc65198254a025312227",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
