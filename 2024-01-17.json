@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Bass",
+  "age": 50,
+  "address": {
+    "street": "Avedu Pass",
+    "city": "Becrimi",
+    "state": "AR",
+    "zip": "28648"
+  },
+  "contact": {
+    "phone": "(752) 433-2945",
+    "servicePhone": "800875479"
+  },
+  "birthday": "1996-11-16T23:52:58.585Z",
+  "ip": "76.120.54.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Oju tuidma inardec fejep terijcaj atudiuri bo joc fu ifirevol epeirulic fagaraisu cosac vupjuk pa lazhur ogecozeh ajifukfuf. Docgeabu ij siwis mo huholzim gaceb rihuzzuh ihcub doip kene lew siezjut gigfeb vihat atalo. Jede limdo sowronto lu ojetujdoh gandam ovuifovan cuk ehabu lasijitu duh sogum li. Te za sa bolgekuk newuep wa sage heoga fafgebew eg si etdoje pafan vepah afouru etgiolo. Rodof dot gunzo pam fe da si rugafinuz cilu gofutu baponzu jeif obhidwa kutwa.",
+    "bio": "Gemim itefeb ef rieh regpima akegih fidcurik ri zofbudun bazil cizudu kacipev si. Lecati fiz darsocu pazit bamebsag senmud maol vov bom falvir vusle husi. Adedizkup mik te pu sej gegmiszij luwce aleven toeko ziplegov nigi bohilepe hudeku mizetih."
+  },
+  "apiKey": "b3d018699b89b70faccc1082145ffb0cf275c20150765be85438c324d7c45ef4",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
