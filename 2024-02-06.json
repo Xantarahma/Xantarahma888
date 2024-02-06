@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Brady",
+  "age": 50,
+  "address": {
+    "street": "Ojijor Boulevard",
+    "city": "Masoju",
+    "state": "ND",
+    "zip": "48854"
+  },
+  "contact": {
+    "phone": "(769) 971-5213",
+    "servicePhone": "800394225"
+  },
+  "birthday": "1970-03-01T12:28:31.418Z",
+  "ip": "247.84.86.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Cewi jopuco bemkejom re fa cuhwo sikpus coknu ijizub nedin og duwevadev. Looc hofe kicoeki cug hew fuver gebut deh cozguzko koksuc timuubu gobza faj cajaj puponraz zih. Natce finluvofa cuk rubukjen agfunet vejuwa tusisa lucjohdef kip nihogasa ruhavlad gir ne teb.",
+    "bio": "Seb fozdijji da recwac kubbuj ep fecezad hufak gezjuvcon anuzujdah let puurap uzuolojep hirtuwol jo fipizut. Ti gale telilina cizge gakotin nadovoupu ini nopocdez izilezi avifolig upeli sofko. Zaumdop posad razus epmuap mokniehe fu jezcuz ras manoc bibase rotatdij suhi."
+  },
+  "apiKey": "5b5f88e40609eb1e9527624538c314736be32864cffa5e64caf11a6f24ffc286",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
