@@ -1,0 +1,26 @@
+{
+  "name": "Jennie Sanders",
+  "age": 21,
+  "address": {
+    "street": "Pihvo Highway",
+    "city": "Geujonu",
+    "state": "KY",
+    "zip": "24923"
+  },
+  "contact": {
+    "phone": "(484) 522-8788",
+    "servicePhone": "800519524"
+  },
+  "birthday": "1971-10-10T11:25:35.274Z",
+  "ip": "125.31.213.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Wokidi ojulu idecimma mucucdeb voma lak punuc kucut lad timanrif renfete ogojaoka abavma kobvo fopbesen. Muulikij hu gijelsec recsi wukefoge jorehjo igwez tujwidu tege tenrat vaen how ta pec ha fa. Todbihgul ow lugre muwomi loju rifgome bo busiigi ifeep dap liesela hilke zuf gudu otosaih kevhu woicin.",
+    "bio": "Kos ci hozima edwa fo gufev wuok leuk la gin geb jowiwgi actit sospo. Dor fovvi talilok pawifji oli kedemupi we zib eb mekojum ze uv. Bim cije gep nan dan ba dicner necjijra lawnepov kofo tewiktaj cacmori gonpad. Webjut cuk um ba huihuhu so vun kolafpug rafeh mehumi falwe dogmo vawenad ivoehi baoge voap. Isusolo lope renir ve ruvzef unbizte du burfaba ruwbup muwe vanudosi gebe."
+  },
+  "apiKey": "d8cbb2e63e523a8dd8e47fb9195dca941d5d131da6786c436865129b4085f069",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
