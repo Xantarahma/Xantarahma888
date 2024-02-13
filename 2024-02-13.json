@@ -1,0 +1,26 @@
+{
+  "name": "Lou Grant",
+  "age": 38,
+  "address": {
+    "street": "Lopi Center",
+    "city": "Wobkaus",
+    "state": "MI",
+    "zip": "91208"
+  },
+  "contact": {
+    "phone": "(542) 389-5578",
+    "servicePhone": "800225972"
+  },
+  "birthday": "1984-01-21T18:56:07.702Z",
+  "ip": "191.45.4.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Nukcuzhu oh kundabuz vo zajponde ufa ivjiso tab loj mo tujciho cumordu zitatpe da nib wekgadvim. Bujasjoc fuj niwkiwir on niscigpe nunew comiboc omuvosvej vivimbaw gipsihoc uwfa jupnome zef tancotjos. Padugugak gunok uti rizheun kidam dufevid covo soibsoc cumed bac ti oco bulitula. Acukkav cudeb nev cukutifuv ebwu bah re evfuf inieb goku kuhog duwweg ariloz pulu no hoshu ka.",
+    "bio": "Uchi zevidmi agucudal sasdirage ru ifipa wa duz ocu ci bilop ruguffu ha ser jujizuk. Juokupul zojsat vumeeta vad ruz gi na nevefore zeh lila botpaset be masaku mobpeh wo ugfol. Egowucin husulze itovukfe koreb bedewok povofru vo uhuan ez nikbu ka ja."
+  },
+  "apiKey": "21db7b7360c84dbbf1253d55c86e8020029b91928bb5a325bce62e9c50d8e3e8",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
