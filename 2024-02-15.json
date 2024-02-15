@@ -1,0 +1,26 @@
+{
+  "name": "Nell Roy",
+  "age": 65,
+  "address": {
+    "street": "Tavu Parkway",
+    "city": "Terhafi",
+    "state": "NE",
+    "zip": "56720"
+  },
+  "contact": {
+    "phone": "(754) 335-9933",
+    "servicePhone": "800332165"
+  },
+  "birthday": "1992-08-10T04:39:02.682Z",
+  "ip": "137.126.22.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Bitkebsat ciaf pu fisfufi dunuh paljumti fuzinru da ok ze torhedo nuzaval. Garibuj sak nicvosa tanjus zojvogec dios vur badci rikla ikelada ce heenu irodunez mocaic repzow niphupof rup. Jo tip icu bahdok isapecju kuswe rismij tih wo mucilahe wowuzo hen fiik.",
+    "bio": "Rac fulelhab dek deobolo rokzalu joje te ke kuleh jod onkol folohizo. Ze gafzi etpa mosadaf guge serreleb conci dek orci aba ajo efi ewakin tufaj. Kopsitan vocikne fig iwibupjo giuz dul lu ma odol egduisa nuza kehisci olgovheh pelzapi ziweszag. Hef gug ibazorwit mag zerib hi copri wonri rowu viarefi we ra gitdos wufuj amnahu vag. Lanog osajohfot icobagzi noha isi saz cibne pamucupa idvo miviwo rito unpawla kirse pudof co aroah obikiki."
+  },
+  "apiKey": "57f5b73484fecb98d1cae4e4c07509f875f13bb0263e260cb6a372b8742cd931",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
