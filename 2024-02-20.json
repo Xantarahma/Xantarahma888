@@ -1,0 +1,26 @@
+{
+  "name": "Don Murray",
+  "age": 21,
+  "address": {
+    "street": "Jabo Place",
+    "city": "Ihimedes",
+    "state": "NV",
+    "zip": "52327"
+  },
+  "contact": {
+    "phone": "(500) 649-9004",
+    "servicePhone": "800853456"
+  },
+  "birthday": "1962-12-08T10:16:34.420Z",
+  "ip": "224.99.88.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Bow wec majomkez dafiwbiw ag zeciki wu re eheca misu laulomi gumi owojapa ceebous nobicgu do. Wibzi ubrat vuwci mafec sog okjivo findaznin zusun muk zi jurfecume detage. La ub ubo liep raf gec kuesesed puwam joati inusojfag gon gugusmu ijo eki potod. Cozanufeb keusobo betof vipo wupihfo ru cuwecebu pe mobwolo dow izigelat tisfed kaistub eh.",
+    "bio": "Mujovjo fi zem ja ru koeso it bu enu si sab rafe toji rizati. Zo kewus be ladceuhu walsicsu hosipo ifrigki olhofpi guzes mat eh kum ma si fesfal foir. Kamu wes wog sasuuf alfi hukoge ci dabpekona isa nidpu wudvowres nifezab sucesu huacaolu jel supikizi ece."
+  },
+  "apiKey": "ef46f7a5507d661a45e7795764c2b48ac15bcdf956a21202df94edbbdcd74828",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
