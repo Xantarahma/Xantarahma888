@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Wong",
+  "age": 25,
+  "address": {
+    "street": "Kopazo Mill",
+    "city": "Nimijfe",
+    "state": "ND",
+    "zip": "13674"
+  },
+  "contact": {
+    "phone": "(517) 540-2228",
+    "servicePhone": "800555375"
+  },
+  "birthday": "2003-01-14T06:18:01.167Z",
+  "ip": "203.29.101.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Cejkav wuwobud vanhe sodiwvul ho jibano edumebi cotlagris uw zo javvi ollovciw ciri tu nensif. Lintecoha lerjinnih kami gogcabga jir peh niducval opte wa rokkek lob warheuma dib. Hag hicmeefu log moz woglamiti han encerem diztoicu ze cefikes vej tokuv nab.",
+    "bio": "Tuj nagvocja olofdov vezureh roidi si bomu muhu giwik fu buhugci edaaphu jagjuc. Nowpe ur gupjik zezejni ik geleb ki hef uweho tabocca ubmanah owkabem wugebu mi. Egopo wugwancep wa cudme zin fiefu vuawahu tofoso icnato ano ruwadun low go baiv weda."
+  },
+  "apiKey": "a41e1fa977d795e2d3b1f90d1ce3894ec528d130450d8b257db07c66abff18df",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
