@@ -1,0 +1,26 @@
+{
+  "name": "Tony Sutton",
+  "age": 31,
+  "address": {
+    "street": "Esoge Lane",
+    "city": "Betoruva",
+    "state": "RI",
+    "zip": "38415"
+  },
+  "contact": {
+    "phone": "(488) 286-8901",
+    "servicePhone": "800461236"
+  },
+  "birthday": "2001-02-25T01:15:10.844Z",
+  "ip": "101.75.9.91",
+  "foo": "bar",
+  "profile": {
+    "about": "He zuwga fero gofve dira ke lim jurezicem velara wafegjom wasakuv bo gos riru husacaobo zolichot. Wotmu og wivmi su rudaz im bonep kozafoc nar as buramovi re rokuj nocdocu. Huz bot desesgo ub lag onapok hovigpen boksolvu jabuog pas etuzu to jel. Ip awekoj fifuliz seco ci etaw to hojuzaza ojohad ek getaiz zunduju zada ti zagcacda leigas fam fo.",
+    "bio": "Degesli gegmuw ozopimpu mowem dagba keicju pezrib puhe nojir julonet olrun guznivcum. Sig obeso ajehafu mufnih obbudhel zew gophuw to coec uhuocoidi kijozovo velmo cacwin pon. Bi hageju amhit ego semisup ha rodecjov mo cus oziihuto azu uzhoka ki ror gu jiblugve dezun okwuuj. Mel kir un ratruh lot noz ha now ojuwotib azi gugme setsaper ba waggij buz kuh um. Da wo ronwa apsulo zaweshet inrew odhowjo ver wos emawevov naobdum oh sumiese ajnekawa me ate fat fapzag. Pehtewa afkizwa mi bodut nub mo ecmecus arumim irritmih lazalhog eniure ukkeero bu sicuta taguj wobo sadmas sowadnob. Uveacmup ene feful do uzidebu pe gizorev foj won piub vit de."
+  },
+  "apiKey": "deacfb49a03ce13d7cfd2ac866d725cb840048fc89f10d0be4e48fd6e7da0697",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
