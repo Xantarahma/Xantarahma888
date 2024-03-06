@@ -1,0 +1,26 @@
+{
+  "name": "Sam Porter",
+  "age": 45,
+  "address": {
+    "street": "Zahob Heights",
+    "city": "Atoothot",
+    "state": "AZ",
+    "zip": "25220"
+  },
+  "contact": {
+    "phone": "(489) 915-9466",
+    "servicePhone": "800121643"
+  },
+  "birthday": "1989-11-19T03:46:02.237Z",
+  "ip": "81.110.133.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Taiz nagawo mizri umherok apaeha dibfe rengujow livwihi ec cetog sesdo musojuat vemi awojug sef mev. Fuj mahu jat lod saf laomihaf kapjoc coag corizbes ehaoswol ofoilpe bow kadami gilrocut. Muh dilpada alilugi sokumnud mimto za luwoza vuj noh bis oc duitepi wonvala udeto hoh kisrew lejmu. Awpeb hagerva kemoklag wu piciv cekkom jegetba odafauwe ob dor kadeke abuotfan luncuvik mumirsi. Mueboja wav ebufubbuf vijjoz zor baz ramivne lervudi rik he jij dojego ohju serezevi azurefog le ozvit huila. Ab reha porebi zeuj pi zap hu lufujbuj amharbok boesvi pisgakve abuhoudu popirde.",
+    "bio": "Wupene hagnebsa wanuez par ezkeama bipver lozbaj ze assi pi ed fe hekuha rucnijgaz nurdovon sines. Wefu kip rur wafvewtu varpakane dazzamim acimakma fogubnen lor do je okduc nuzro. Le radej buwhedo la oruwupsud uj cip ne edevubi fidubon mibo pe aneg jefikoto van comtuwda gut dat. Casmejpib koom uhuru urrorut walno telbifol fuf nivimus mamzem apno rosasa enbef woghekab tavcu waw lu. Ehih rocu tijukde resno uri neegiobe alfuk tahiro vuv wamot jud ajto fimettas newkuju kuhgig arrasfus gikebo. Reuni lecu boelgop owico bawfifwu gilamha jecep lu juvlabo itomehlav jeacho sob."
+  },
+  "apiKey": "4088c7fab2628b40d8685034451ec3152122ca04fb50f0b78b3aaa65bfc0b93e",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
