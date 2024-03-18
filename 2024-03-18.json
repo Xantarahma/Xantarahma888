@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Armstrong",
+  "age": 41,
+  "address": {
+    "street": "Rifzif Pike",
+    "city": "Dusewho",
+    "state": "WV",
+    "zip": "24602"
+  },
+  "contact": {
+    "phone": "(661) 999-4018",
+    "servicePhone": "800145119"
+  },
+  "birthday": "1995-06-28T18:18:15.118Z",
+  "ip": "96.71.163.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Rudu hir isepobos umi cevu wewu cubtovo nudgimoj mam ejivuc pehcok je jebuwa kadusve wu lamalem getiepe juf. Ec jam miozi huv sajinvib ciczoto guwtojwa azmoari ow vusirdet kez ezugze vu hectiopi callucat ehi noz gusisiv. Haumoidu be jimolofa wehu wihuha poum regukli gazsez da utbauda emwu jitmo. Tokiva wiizecob fe jokovju bikeh mulbu fapis bowuj ewpauta jobed fihek mase. Vip isi pino peor vauvwes urupa fiwe co petpoce luw op ivtec.",
+    "bio": "Li sabve devozzuz dugocoh he aheukeom kosanu lulibun ij go kiur bo kavkar oto gatcigsaj. Pubiweiso vuuza boj ruj on kanise segor va wuehi azaoga gaksaz osriwe. Jidhites ola suhjelpev tow izaum ku uzuvpo icuenibi metnen suve ale pazika femar iglarloj du nisni."
+  },
+  "apiKey": "ef35cf91957730e66ff902431e095e233f7ea6d6399cf963588c12d8553b5afa",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
