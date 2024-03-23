@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Luna",
+  "age": 56,
+  "address": {
+    "street": "Diveh Grove",
+    "city": "Cenujip",
+    "state": "TX",
+    "zip": "52936"
+  },
+  "contact": {
+    "phone": "(717) 573-8073",
+    "servicePhone": "800188827"
+  },
+  "birthday": "1986-04-13T21:37:50.275Z",
+  "ip": "9.171.204.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Go uj kojor li keh aveohiwi tevfirsan nasica kisig gukmo livu ni kojfuh iju avugepafa ah da. Viab vomzunpoz wueki efaik lozu galsodan orsuk roz kutsophoz jupferej aljo ino rat te wevfajula. Ve wezu zolubo jujdapzer zafimeira tepzoz cinufig hipnec bogum ehukpig zaw jikufpab rega ihsedbo ma.",
+    "bio": "Jeeleti alu ovuha howu cev le momguvuw jed kabok rolisok kuctovboj pecgigas wuvjighag vifebit ijoehe wu. Tez tucez ji zoswip ehijes godca dar wakni be zizhuwcuc tagol corge fekivwi ivlibo zeaf damewi ura idozawjon. Wo co du zabtu tus fewimni lun us lo inrok kevgowo imuludpof."
+  },
+  "apiKey": "eef2669b1c6a5f556b9756e555782e68f03b75b34a0e805e3c615b436e980227",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
