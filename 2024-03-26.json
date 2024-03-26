@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Brock",
+  "age": 21,
+  "address": {
+    "street": "Uknej Terrace",
+    "city": "Adenbec",
+    "state": "IL",
+    "zip": "95848"
+  },
+  "contact": {
+    "phone": "(704) 878-4497",
+    "servicePhone": "800442767"
+  },
+  "birthday": "1988-12-21T12:45:45.657Z",
+  "ip": "92.138.121.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Holunu woriazu safji hilu voazawe tec timse uluusepe zesnalwus zav pi eruavoto cepuv. Ku dow lote el wutmeero ellenpis mehgurhut gawohi hacpertis uf ceoseov legapfa bovatda paizzu iwbiih civvigvar. Laflipji jihtaruf nomlo cocze lusatuj jug peherol pupnevzu bazbiazu rubep ugufuzin fo zun niamu uknusu. Vocande uheukasa mauvo wij fiamsej rugperbow pob akgi tegminoz dikegpo dorzujiz afmup za osiffo ehkucisa apko lizujo coppe. Pitafan re jacol ijjodvet wuvagino fofuru le paehi raked zu bivpeoho bem tummaktup tud degeke ehauteba sebputo. Gukva comu wepcioj be daka cioviwa kunfu copukdi ma loncep but koh.",
+    "bio": "Pi acfote juevkeg awuar bo vivakam rigseh legaj viip pi rif vuknop wettodsi githuwuh ni. Cotuzi imotit ruve otuovjib duunihik nolawi mi bo kup ufeoki moudaje orfoze giotsu netlegef bik kezhikriw pejleuz wo. Gubdes bu hu higen azezor do umawon de vi nab bi lazmaj rocate jeretle ave rov."
+  },
+  "apiKey": "f3eae7b2e216326ab497fc2c6d041484f29096555e68e75b673f9ec45173d9e7",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
