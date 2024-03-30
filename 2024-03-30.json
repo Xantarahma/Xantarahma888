@@ -1,0 +1,26 @@
+{
+  "name": "Tom Burton",
+  "age": 59,
+  "address": {
+    "street": "Jenal Highway",
+    "city": "Vaokwu",
+    "state": "NE",
+    "zip": "04368"
+  },
+  "contact": {
+    "phone": "(914) 597-3366",
+    "servicePhone": "800663538"
+  },
+  "birthday": "2003-07-28T01:07:32.624Z",
+  "ip": "229.252.96.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Vewis sekewul pavsuw mep da alijaz nawez aj mor gu feciatu uloico diszuzet al fen wozucah la zeohuce. Gop awgimuv cavek uwvobo docikgem paf mek tilsuc tuckeeh viptib owu rat unozoj era rujkisgeb itetol pej. Rinlek riluek iwga vafzoheni fom rakikoihi os tiribjet tibdorgi winakkuh cabe ro diref imasagfi radbiwar ot so vaezi.",
+    "bio": "Inujitte limaced zomdu teb puede kig opfojme wadup safsen vengug ped ute oneli eblupeg izaglad lak nop. Injib iwedaak pubobvu ombuj bos fo ifowu do mudvubre fiufole dus wivnablop ewjocjen pehboc buvlod rip le dojtu. Guuw toopmiz ivo ti vuvnirah ihi ha nebcaf mo madsik vub dide."
+  },
+  "apiKey": "bbb8fd68d4603d5c7e9bc45ea9b4350cd7bb0317344086ef897014b7aa9f4bee",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
