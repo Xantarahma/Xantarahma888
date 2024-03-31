@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Jones",
+  "age": 18,
+  "address": {
+    "street": "Busa Highway",
+    "city": "Keedute",
+    "state": "AZ",
+    "zip": "36637"
+  },
+  "contact": {
+    "phone": "(336) 664-8776",
+    "servicePhone": "800166198"
+  },
+  "birthday": "1962-09-01T04:19:29.531Z",
+  "ip": "200.33.74.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Po ewi lawig wev etipi nodu ririg nuj umo kun tom emanone esasef kofa fopiza. Zefic nu pohkun neru du izu jic bilusker seb haji ehfol fi cadib najer. Enodu tav uzamas inotum ehu etesas vavis ejmaode gaw fisabhen wakota tozdil. Ce erehapha nisoved acu apafi jahe wawewo rajutham agebo umi tedifhag hene bahkuj duh.",
+    "bio": "Jekmo pesgo dov goj kosuc muk baok wascuze zov puj kahsefe re uriusi fid naw wu. Jon zosapfoz ma ud ama digmofepi akeruhah le cagos eze ce uwe dan teldi pafdep rog ub bu. Kohowso pozfo zes onkoz pa sew coker zu sacer pibguv ku um gim lonekupa. Paz ginfage luzake nohesdu recigdif irsanek kacashep lifluk wo pa foz hidub zir uzaze."
+  },
+  "apiKey": "990e8a7800474e0f14fd9a91bb036c0ff39d09ac76a019af386993902205b1dd",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
